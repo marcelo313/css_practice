@@ -13,7 +13,8 @@ h1 {
 
 h2 {
     font-size: 30px;
-    color: #0D0D0D;
+/*    color: #0D0D0D;*/
+    font-style: #0D0D0D;
 }
 
 p {
@@ -45,6 +46,7 @@ div {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
+    border-top: none;
     border-left: 5px solid #FFFFFF;
     border-bottom: 2px solid #FFFFFF;
     border-right: none;
@@ -74,12 +76,13 @@ div {
 }
 
 .green {
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 5px solid #FFFFFF;
     border-left: none;
     border-top: 2px solid #FFFFFF;
+    border-bottom: none;
 }
 
 footer {
@@ -92,3 +95,5 @@ footer p {
     text-align: right;
     padding: 15px 15px 15px 0;
 }
+
+
