@@ -25,9 +25,9 @@ p {
 img {
     width: 250px;
     display: block;
-    border: 10px dashed #FFFFFF;
     margin-left: auto;
     margin-right: auto;
+    border: 10px dashed #FFFFFF;
 }
 
 div {
@@ -75,6 +75,11 @@ div {
     color: #707070;
 }
 
+.yellow h2 {
+    color: #000000;
+}
+
+
 .green {
     background-color: #008500;
     text-align: left;
@@ -95,5 +100,3 @@ footer p {
     text-align: right;
     padding: 15px 15px 15px 0;
 }
-
-
